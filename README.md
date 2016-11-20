@@ -1,9 +1,9 @@
 <h3>Rush Hour - AI Solver</h3>
 
 <p>The goal of this assignment will be to implement a working solver for the puzzle game Rush Hour
-shown in Figure 1.
+shown in Figure 1.</p>
 ![Figure 1](https://github.com/jana-uoft/rush_hour_AI/blob/master/state.png "Figure 1")
-
+<p>
 The puzzle involves moving a goal car, that may be blocked by additional cars and trucks, to an exit. Cars and trucks can only move in straight lines. The game can be played online here: http://www.thinkfun.com/play-online/rush-hour/.
 </p>
 
